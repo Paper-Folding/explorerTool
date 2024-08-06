@@ -3,11 +3,9 @@
 ################################################################################
 
 /.vs
-/Build/Debug/x64
-/Build/Release/x64/ExplorerBgTool.dll
-/Build/Release/x64/ExplorerBgTool.exp
-/Build/Release/x64/ExplorerBgTool.lib
-/Build/Release/x64/ExplorerBgTool.pdb
+Build/
 /ExplorerBgTool/x64
 /Release_x64.zip
 /ReadMe.url
+**/Debug/**
+**/Relese/**
