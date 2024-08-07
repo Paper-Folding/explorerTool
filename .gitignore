@@ -9,3 +9,4 @@ Build/
 /ReadMe.url
 **/Debug/**
 **/Relese/**
+*.dll
